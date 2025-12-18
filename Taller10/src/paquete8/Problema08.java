@@ -12,7 +12,7 @@ public class Problema08 {
 
     public static void main(String[] args) {
         // Creación de arreglo bidimensionales
-        // Evaluacion de posiciones
+        // Evaluacion de posiciones del arreglo
 
         //                  00  01  02 10  11 12
         double[][] dato1 = {{1, 2, 3}, {6, 8, 9}};
